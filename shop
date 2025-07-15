@@ -5,7 +5,7 @@
     { "id": "AthenaCharacter:CHaracter_MirageHike", "name": "Sandshark Driver", "price": 0, "rarity": "rare" },
     { "id": "11", "name": "It's Dynamite!", "price": 0, "rarity": "legendary" },
     { "id": "11", "name": "Ice Breaker", "price": 0, "rarity": "legendary" },
-    { "id": "11", "name": "StarWand", "price": 0, "rarity": "legendary" }
+    { "id": "11", "name": "Star Wand", "price": 0, "rarity": "legendary" }
   ],
   "featured": [
     { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Iso", "price": 0, "rarity": "epic" },
