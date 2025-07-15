@@ -10,6 +10,6 @@
   "featured": [
     { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Iso", "price": 0, "rarity": "epic" },
     { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Indigo Kuno", "price": 0, "rarity": "epic" },
-    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Nightlife", "price": 0, "rarity": "epic" }
+    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Party Diva", "price": 0, "rarity": "epic" }
   ]
 }
