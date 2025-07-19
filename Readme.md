@@ -1,4 +1,4 @@
-# Shop
+# Recon Shop Tutorial
 > **Tip:** All Fortnite cosmetics can be found at [Fortnite.GG/cosmetics](https://fortnite.gg/cosmetics)
 ## Requirements for Cosmetics
 
