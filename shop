@@ -10,7 +10,6 @@
   "featured": [
     { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Pitch Patroller", "price": 0, "rarity": "epic" },
     { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Karve", "price": 0, "rarity": "epic" },
-    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Pitstop", "price": 0, "rarity": "epic" },
-    { "id": "AthenaCharacter:CID_993_Athena_Commando_F_Typhoon_LPFU6_Variant", "name": "Iso", "price": 0, "rarity": "epic" }
+    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Pitstop", "price": 0, "rarity": "epic" }
   ]
 }
