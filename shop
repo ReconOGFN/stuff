@@ -1,15 +1,15 @@
 {
   "daily": [
-    { "id": "AthenaBackpack:BID_468_Cyclone", "name": "Black Shield", "price": 0, "rarity": "rare" },
-    { "id": "AthenaDance:EID_ModerateAmount_9LUN1", "name": "I'm Diamond", "price": 0, "rarity": "epic" },
-    { "id": "AthenaCharacter:CHaracter_MirageHike", "name": "Sandshark Driver", "price": 0, "rarity": "rare" },
-    { "id": "11", "name": "It's Dynamite!", "price": 0, "rarity": "legendary" },
-    { "id": "11", "name": "Ice Breaker", "price": 0, "rarity": "legendary" },
-    { "id": "11", "name": "Star Wand", "price": 0, "rarity": "legendary" }
+    { "id": "AthenaBackpack:BID_468_Cyclone", "name": "Cyclone", "price": 0, "rarity": "rare" },
+    { "id": "AthenaDance:EID_ModerateAmount_9LUN1", "name": "Go Mufasa", "price": 0, "rarity": "epic" },
+    { "id": "AthenaCharacter:CHaracter_MirageHike", "name": "Curse Buster", "price": 0, "rarity": "rare" },
+    { "id": "11", "name": "CrazyBoy", "price": 0, "rarity": "legendary" },
+    { "id": "11", "name": "Gold Crow", "price": 0, "rarity": "legendary" },
+    { "id": "11", "name": "Harley Hitter", "price": 0, "rarity": "legendary" }
   ],
   "featured": [
-    { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Iso", "price": 0, "rarity": "epic" },
-    { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Indigo Kuno", "price": 0, "rarity": "epic" },
-    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Party Diva", "price": 0, "rarity": "epic" }
+    { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Pitch Patroller", "price": 0, "rarity": "epic" },
+    { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Karve", "price": 0, "rarity": "epic" },
+    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Pitstop", "price": 0, "rarity": "epic" }
   ]
 }
