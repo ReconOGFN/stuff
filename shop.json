@@ -1,16 +1,16 @@
 {
   "daily": [
-    { "id": "AthenaBackpack:BID_468_Cyclone", "name": "Cactus Jack", "price": 0, "rarity": "rare" },
-    { "id": "AthenaDance:EID_ModerateAmount_9LUN1", "name": "Go Mufasa", "price": 0, "rarity": "epic" },
-    { "id": "AthenaCharacter:CHaracter_MirageHike", "name": "Curse Buster", "price": 0, "rarity": "rare" },
-    { "id": "AthenaDance:EID_CrazyBoy", "name": "CrazyBoy", "price": 0, "rarity": "legendary" },
-    { "id": "AthenaPickaxe:Pickaxe_GoldCrow", "name": "Gold Crow", "price": 0, "rarity": "legendary" },
-    { "id": "AthenaPickaxe:Pickaxe_HarleyHitter", "name": "Harley Hitter", "price": 0, "rarity": "legendary" }
+    { "id": "AthenaBackpack:BID_468_Cyclone", "name": "Red Shield", "price": 0, "rarity": "rare" },
+    { "id": "AthenaDance:EID_ModerateAmount_9LUN1", "name": "The Flow", "price": 0, "rarity": "epic" },
+    { "id": "AthenaCharacter:CHaracter_MirageHike", "name": "Rue", "price": 0, "rarity": "rare" },
+    { "id": "AthenaDance:EID_CrazyBoy", "name": "Out West", "price": 0, "rarity": "legendary" },
+    { "id": "AthenaPickaxe:Pickaxe_GoldCrow", "name": "Hulk Smashers", "price": 0, "rarity": "legendary" },
+    { "id": "AthenaPickaxe:Pickaxe_HarleyHitter", "name": "Frostbite Cane", "price": 0, "rarity": "legendary" }
   ],
   "featured": [
-    { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Pitch Patroller", "price": 0, "rarity": "epic" },
-    { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Karve", "price": 0, "rarity": "epic" },
-    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Pitstop", "price": 0, "rarity": "epic" },
-    { "id": "AthenaCharacter:CID_732_Athena_Commando_F_Stars", "name": "Iso", "price": 0, "rarity": "epic" }
+    { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "T-800", "price": 0, "rarity": "epic" },
+    { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Michonne", "price": 0, "rarity": "epic" },
+    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Nightlife", "price": 0, "rarity": "epic" },
+    { "id": "AthenaCharacter:CID_732_Athena_Commando_F_Stars", "name": "Doggo", "price": 0, "rarity": "epic" }
   ]
 }
