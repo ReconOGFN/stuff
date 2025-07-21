@@ -1,16 +1,16 @@
 {
   "daily": [
-    { "id": "AthenaBackpack:BID_468_Cyclone", "name": "Red Shield", "price": 0, "rarity": "rare" },
-    { "id": "AthenaDance:EID_ModerateAmount_9LUN1", "name": "The Flow", "price": 0, "rarity": "epic" },
-    { "id": "AthenaCharacter:CHaracter_MirageHike", "name": "Rue", "price": 0, "rarity": "rare" },
-    { "id": "AthenaDance:EID_CrazyBoy", "name": "Out West", "price": 0, "rarity": "legendary" },
-    { "id": "AthenaPickaxe:Pickaxe_GoldCrow", "name": "Hulk Smashers", "price": 0, "rarity": "legendary" },
-    { "id": "AthenaPickaxe:Pickaxe_HarleyHitter", "name": "Frostbite Cane", "price": 0, "rarity": "legendary" }
+    { "id": "AthenaBackpack:BID_468_Cyclone", "name": "Enduring Cape", "price": 0, "rarity": "rare" },
+    { "id": "AthenaDance:EID_ModerateAmount_9LUN1", "name": "Rambunctious", "price": 0, "rarity": "epic" },
+    { "id": "AthenaCharacter:CHaracter_MirageHike", "name": "Flatfoot", "price": 0, "rarity": "rare" },
+    { "id": "AthenaDance:EID_CrazyBoy", "name": "Jabba Switchway", "price": 0, "rarity": "legendary" },
+    { "id": "AthenaPickaxe:Pickaxe_GoldCrow", "name": "Candy Axe", "price": 0, "rarity": "legendary" },
+    { "id": "AthenaPickaxe:Pickaxe_HarleyHitter", "name": "Forsaken Strike", "price": 0, "rarity": "legendary" }
   ],
   "featured": [
-    { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "T-800", "price": 0, "rarity": "epic" },
-    { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Michonne", "price": 0, "rarity": "epic" },
-    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Nightlife", "price": 0, "rarity": "epic" },
-    { "id": "AthenaCharacter:CID_732_Athena_Commando_F_Stars", "name": "Doggo", "price": 0, "rarity": "epic" }
+    { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Indigo Kuno", "price": 0, "rarity": "epic" },
+    { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Vix", "price": 0, "rarity": "epic" },
+    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Atlantean Fishstick", "price": 0, "rarity": "epic" },
+    { "id": "AthenaCharacter:CID_732_Athena_Commando_F_Stars", "name": "Decaying Dribbler", "price": 0, "rarity": "epic" }
   ]
 }
