@@ -2,7 +2,7 @@
   "daily": [
     { "id": "AthenaBackpack:BID_468_Cyclone", "name": "Ice Mantle", "price": 0, "rarity": "rare" },
     { "id": "AthenaDance:EID_ModerateAmount_9LUN1", "name": "Point It Out", "price": 0, "rarity": "epic" },
-    { "id": "AthenaGlider:CHaracter_MirageHike", "name": "Beach Umbrella", "price": 0, "rarity": "rare" },
+    { "id": "AthenaCharacter:CHaracter_MirageHike", "name": "Trooper", "price": 0, "rarity": "rare" },
     { "id": "AthenaDance:EID_CrazyBoy", "name": "Wave", "price": 0, "rarity": "legendary" },
     { "id": "AthenaPickaxe:Pickaxe_GoldCrow", "name": "Widow’s Bite", "price": 0, "rarity": "legendary" },
     { "id": "AthenaPickaxe:Pickaxe_HarleyHitter", "name": "Studded Axe", "price": 0, "rarity": "legendary" }
