@@ -1,16 +1,16 @@
 {
   "daily": [
-    { "id": "AthenaBackpack:BID_468_Cyclone", "name": "Ice Mantle", "price": 0, "rarity": "rare" },
-    { "id": "AthenaDance:EID_ModerateAmount_9LUN1", "name": "Point It Out", "price": 0, "rarity": "epic" },
-    { "id": "AthenaGlider:Umbrella_Season_05", "name": "Beach Umbrella", "price": 0, "rarity": "rare" },
-    { "id": "AthenaDance:EID_CrazyBoy", "name": "Wave", "price": 0, "rarity": "legendary" },
-    { "id": "AthenaPickaxe:Pickaxe_GoldCrow", "name": "Widow’s Bite", "price": 0, "rarity": "legendary" },
-    { "id": "AthenaPickaxe:Pickaxe_HarleyHitter", "name": "Studded Axe", "price": 0, "rarity": "legendary" }
+    { "id": "AthenaBackpack:BID_468_Cyclone", "name": "Ice Mantle", "price": 100, "rarity": "rare" },
+    { "id": "AthenaDance:EID_ModerateAmount_9LUN1", "name": "Point It Out", "price": 500, "rarity": "epic" },
+    { "id": "AthenaGlider:Umbrella_Season_05", "name": "Beach Umbrella", "price": 100, "rarity": "rare" },
+    { "id": "AthenaDance:EID_CrazyBoy", "name": "Wave", "price": 200, "rarity": "legendary" },
+    { "id": "AthenaPickaxe:Pickaxe_GoldCrow", "name": "Widow’s Bite", "price": 1000, "rarity": "legendary" },
+    { "id": "AthenaPickaxe:Pickaxe_HarleyHitter", "name": "Studded Axe", "price": 800, "rarity": "legendary" }
   ],
   "featured": [
-    { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Blue Team Leader", "price": 0, "rarity": "epic" },
-    { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Elite Agent", "price": 0, "rarity": "epic" },
-    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Fishstick", "price": 0, "rarity": "epic" },
+    { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Blue Team Leader", "price": 2500, "rarity": "epic" },
+    { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Elite Agent", "price": 2500, "rarity": "epic" },
+    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Fishstick", "price": 2500, "rarity": "epic" },
     { "id": "AthenaCharacter:CID_732_Athena_Commando_F_Stars", "name": "Sorana", "price": 0, "rarity": "epic" }
   ]
 }
