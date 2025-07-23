@@ -10,7 +10,7 @@
   "featured": [
     { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Blue Team Leader", "price": 2500, "rarity": "epic" },
     { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Elite Agent", "price": 2500, "rarity": "epic" },
-    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Fishstick", "price": 2500, "rarity": "epic" },
-    { "id": "AthenaCharacter:CID_732_Athena_Commando_F_Stars", "name": "Sorana", "price": 0, "rarity": "epic" }
+    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Fishstick", "price": 0, "rarity": "epic" },
+    { "id": "AthenaCharacter:CID_732_Athena_Commando_F_Stars", "name": "Sorana", "price": 2500, "rarity": "epic" }
   ]
 }
