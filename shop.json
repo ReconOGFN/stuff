@@ -4,7 +4,7 @@
     { "id": "AthenaDance:EID_ModerateAmount_9LUN1", "name": "Work It", "price": 500, "rarity": "rare" },
     { "id": "AthenaGlider:Umbrella_Season_05", "name": "Mako", "price": 200, "rarity": "uncommon" },
     { "id": "AthenaDance:EID_CrazyBoy", "name": "Fresh", "price": 400, "rarity": "epic" },
-    { "id": "AthenaPickaxe:Pickaxe_GoldCrow", "name": "Merry Mint Axe", "price": 1200, "rarity": "epic" },
+    { "id": "AthenaPickaxe:Pickaxe_GoldCrow", "name": "Merry Mint Axe", "price": 4000, "rarity": "epic" },
     { "id": "AthenaPickaxe:Pickaxe_HarleyHitter", "name": "Ice Breaker", "price": 800, "rarity": "uncommon" }
   ],
   "featured": [
