@@ -1,15 +1,15 @@
 {
   "daily": [
-    { "id": "AthenaBackpack:BID_468_Cyclone", "name": "Shattered Wing", "price": 500, "rarity": "rare" },
-    { "id": "AthenaDance:EID_ModerateAmount_9LUN1", "name": "Glitter", "price": 500, "rarity": "rare" },
-    { "id": "AthenaGlider:Umbrella_Season_05", "name": "Dragacorn", "price": 500, "rarity": "uncommon" },
-    { "id": "AthenaDance:EID_CrazyBoy", "name": "Primo Moves", "price": 500, "rarity": "epic" },
-    { "id": "AthenaPickaxe:Pickaxe_GoldCrow", "name": "Crowbar", "price": 800, "rarity": "epic" },
-    { "id": "AthenaPickaxe:Pickaxe_HarleyHitter", "name": "Gold Digger", "price": 800, "rarity": "uncommon" }
+    { "id": "AthenaBackpack:BID_468_Cyclone", "name": "Mouldering Cloak", "price": 500, "rarity": "rare" },
+    { "id": "AthenaDance:EID_ModerateAmount_9LUN1", "name": "Treat Yourself", "price": 500, "rarity": "rare" },
+    { "id": "AthenaGlider:Umbrella_Season_05", "name": "Hyper", "price": 500, "rarity": "uncommon" },
+    { "id": "AthenaDance:EID_CrazyBoy", "name": "Pump It Up", "price": 500, "rarity": "epic" },
+    { "id": "AthenaPickaxe:Pickaxe_GoldCrow", "name": "Bark Basher", "price": 800, "rarity": "epic" },
+    { "id": "AthenaPickaxe:Pickaxe_HarleyHitter", "name": "Guiding Glow", "price": 800, "rarity": "uncommon" }
   ],
   "featured": [
-    { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Rio Grande", "price": 1200, "rarity": "rare" },
-    { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Tsuki", "price": 1200, "rarity": "rare" },
-    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Grind", "price": 800, "rarity": "epic" }
+    { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Terns", "price": 1200, "rarity": "rare" },
+    { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Jack Gourdon", "price": 1200, "rarity": "rare" },
+    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "The Autumn Queen", "price": 800, "rarity": "epic" }
   ]
 }
